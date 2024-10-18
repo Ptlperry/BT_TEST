@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(227, 227, 227);
+}
+.card{
+    margin: 20px;
+    border-radius: 2rem 0;
+    background-color: rgb(195, 201, 201);
+}
+
+
+.card img{
+    border-radius: 2rem  0;
+}
